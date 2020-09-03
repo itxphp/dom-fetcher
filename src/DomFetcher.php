@@ -83,7 +83,7 @@ class DomFetcher
                 }
 
                 $normal =  [
-                    "~" => "contains",
+                    "*" => "contains",
                     "^" =>  "starts-with"
                 ];
 
