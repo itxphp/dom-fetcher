@@ -1,0 +1,26 @@
+{
+    "name": "itx_utilities/dom_fetcher",
+    "type": "library",
+    "description": "dom fetcher",
+    "keywords": ["dom parser", "dom fetcher" , "xpath"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad Arafa",
+            "email": "hello@ahmadarafa.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0" 
+    },
+    "autoload": {
+        "psr-4": {
+            "Itx\\Utilities\\": "src/"  
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0.x-dev"
+        }  
+    }
+}
