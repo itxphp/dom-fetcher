@@ -1,7 +1,7 @@
 {
-    "name": "itx_utilities/dom_fetcher",
+    "name": "itx-utilities/dom-fetcher",
     "type": "library",
-    "description": "dom fetcher",
+    "description": "a php package for fetching dom using xpath",
     "keywords": ["dom parser", "dom fetcher" , "xpath"],
     "license": "MIT",
     "authors": [
